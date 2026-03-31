@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to Bank accounts related PROD APIs "
   contactDetails:
     name: "Reine Test - PROD Lead"
-    email: "reine@test.com"
+    email: "{cipher}f39d433abbc4b8aff5bbb90a639591012af9392755aacc3ca94584275f5d9a7f"
   onCallSupport:
     - (555) 222-1234
     - (555) 555-1345
