@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to Bank accounts related prod API test 10"
+  message: "Welcome to Bank accounts related prod API test 11"
   contactDetails:
     name: "Reine Test - PROD Lead"
     email: "{cipher}f39d433abbc4b8aff5bbb90a639591012af9392755aacc3ca94584275f5d9a7f"
