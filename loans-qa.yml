@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to Bank loans related QA APIs "
+  contactDetails:
+    name: "Smith - QA Lead"
+    email: "test@test.com"
+  onCallSupport:
+    - (555) 123-1234
+    - (555) 321-1345
